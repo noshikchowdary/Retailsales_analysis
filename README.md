@@ -43,7 +43,7 @@ This dashboard empowers retail stakeholders to:
 
 ## 📸 Dashboard Preview
 
-![Retail Sales Dashboard](./Screenshot%202025-06-02%20at%2010.07.10%E2%80%AFPM.png)
+![Retail Sales Dashboard](dashboard_preview.png)
 
 ## ✅ Getting Started
 
