@@ -1,6 +1,6 @@
 # 🛒 Retail Sales Analysis Dashboard
 
-This project presents a comprehensive **Retail Sales Analysis** using Power BI, leveraging DAX functions and interactive visuals to deliver actionable insights into customer behavior, product performance, and regional sales trends
+This project presents a comprehensive **Retail Sales Analysis** using Power BI, leveraging DAX functions and interactive visuals to deliver actionable insights into customer behavior, product performance, and regional sales trends.
 
 ## 📊 Project Overview
 
